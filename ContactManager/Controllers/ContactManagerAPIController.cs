@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ContactManager_API.Controllers
 {
-    [Route("api/ContactManagementAPI")]
+    [Route("api/ContactManagerAPI")]
     [ApiController]
     public class ContactManagerAPIController : ControllerBase
     {
